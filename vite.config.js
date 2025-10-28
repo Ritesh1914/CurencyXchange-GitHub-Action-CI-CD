@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/CurrencyXchange-Cithub-Action/', // 👈 must exactly match your repo name
+  base: '/CurencyXchange-GitHub-Action-CI-CD/', // 👈 must exactly match your repo name
 })
 
