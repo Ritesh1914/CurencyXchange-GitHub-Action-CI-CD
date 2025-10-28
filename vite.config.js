@@ -5,5 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/CurrencyXchange-Cithub-Action/',
+  base: '/CurrencyXchange-Cithub-Action/', // 👈 add this line
 })
+
